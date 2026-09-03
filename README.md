@@ -1,6 +1,3 @@
-Goal
-Make an application that will analyse the given data and provide info about trucks
-
 
 Tech Stack
 
